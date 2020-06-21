@@ -1,0 +1,1 @@
+allow hal_wifi_default sysfs_boot_wlan:file w_file_perms;
